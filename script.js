@@ -1,4 +1,6 @@
 function firstChar(text) {
+	let i=0;
+  return text[i];
   // your code here
 }
 
